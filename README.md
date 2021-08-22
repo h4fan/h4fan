@@ -2,10 +2,8 @@
 ## 博客
 * [h4fan](https://h4fan.github.io)
 ## 小工具
-### 已开源
 * [autozm](https://github.com/h4fan/autozm) 利用zoomeye api搜索c段ip和端口，存入sqlite进行查询
 * [nmap2db](https://github.com/h4fan/nmap2db) 将nmap -oG扫描结果存入sqlite数据库
-### 未开源
 * [ssrfscan](https://github.com/h4fan/ssrfscan) burp ssrf扫描插件
 * [dnssrf](https://github.com/h4fan/dnssrf) 配合ssrf的dnslog平台
 
