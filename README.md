@@ -7,6 +7,7 @@
 * [ssrfscan](https://github.com/h4fan/ssrfscan) burp ssrf扫描插件
 * [dnssrf](https://github.com/h4fan/dnssrf) 配合ssrf的dnslog平台
 * [d3domainip](https://github.com/h4fan/d3domainip) d3 fdg 展示域名ip信息，c段关联
+* [mini](https://github.com/sectcp/mini) 小脚本
 
 <!--
 **h4fan/h4fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
