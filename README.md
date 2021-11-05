@@ -1,5 +1,5 @@
 ## 博客
-* [h4fan](https://blog.tcp.im)
+* [new blog](https://blog.tcp.im)
 * [h4fan](https://h4fan.github.io)
 ## 小工具
 * [autozm](https://github.com/h4fan/autozm) 利用zoomeye api搜索c段ip和端口，存入sqlite进行查询
