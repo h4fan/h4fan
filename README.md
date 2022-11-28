@@ -1,6 +1,6 @@
 ## 博客
 * [h4fan](https://h4fan.github.io)
-* [blog](https://blog.tcp.im)
+
 ## 小工具
 * [bpext](https://github.com/h4fan/bpext) burpsuite python 插件
 * [ssrfscan](https://github.com/h4fan/ssrfscan) burp ssrf扫描插件
